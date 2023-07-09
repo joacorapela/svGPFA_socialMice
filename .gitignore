@@ -1,0 +1,10 @@
+*~
+*swp
+fromRsync
+
+data/*
+figures/*
+init/*
+results/*
+notes/*
+__pycache__
